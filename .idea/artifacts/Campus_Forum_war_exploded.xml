@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Campus Forum:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Campus_Forum_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Campus Forum" />
+        </element>
+        <element id="library" level="project" name="lib" />
+        <element id="library" level="project" name="lib1" />
+      </element>
+      <element id="javaee-facet-resources" facet="Campus Forum/web/Web" />
+    </root>
+  </artifact>
+</component>
